@@ -54,7 +54,7 @@ I've been interested in cybersecurity for 2+ years. I'm a very curious and analy
 
 - [LinkedIn](https://www.linkedin.com/in/fallyn-buckner/)
 - [Personal Website](https://fallwritescode.com/)
--[The Claremont Cybersecurity Club](https://github.com/cmc-cyberclub/claremont-cybersecurity-club)
+- [The Claremont Cybersecurity Club](https://github.com/cmc-cyberclub/claremont-cybersecurity-club)
 ---
 
 Committed to advancing cybersecurity practices and fostering a more secure digital ecosystem.
