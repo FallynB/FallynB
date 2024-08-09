@@ -1,10 +1,10 @@
-# 👋 Hello, I'm Fallyn Buckner
+# Hello, I'm Fallyn Buckner 👋🏾
 
 ## 🛡️ Aspiring Security Professional | IT Security Analyst
 
 ### About Me
 
-I've been interested in cybersecurity for 2+ years. I'm a very curious and analytical person with a passion for technology. Cybersecurity is my favorite domain because I like the idea of being proactive in software design and protecting important systems as technology becomes increasingly intertwined with aspects of life.
+I've been interested in cybersecurity for 2+ years, but I have always loved technlogy. I'm a very curious and analytical person with a passion for tech. Cybersecurity is my favorite domain because I like the idea of being proactive in software design and protecting important systems as technology becomes increasingly intertwined with aspects of life.
 
 ### 🚀 Current Focus
 
@@ -49,6 +49,26 @@ I've been interested in cybersecurity for 2+ years. I'm a very curious and analy
 - Splunk for Log Analysis
 - Wireshark
 - Web Application Development
+
+### 🎓 Education
+
+#### 🏫 Claremont McKenna College
+**BA, Data Science** | 📍 Claremont, CA | *Expected Graduation: May 2026*
+- 🏅 St. Dennis Scholar (Quantitative Focus)
+- 📚 Relevant Coursework: 
+  - 📐 Calculus I, Calculus III
+  - 📊 Linear Algebra
+  - 💻 Data Structures and Algorithms
+  - 📊 Foundations of Data Science
+
+#### 🏫 Lane Technical High School
+**High School Diploma, Computer Science Concentration** | 📍 Chicago, IL | *Graduated: June 2022*
+- 🎖️ Magna Cum Laude, GPA: 4.51/5.0
+- 📚 Relevant Coursework:
+  - 💻 Honors Exploring Computer Science
+  - 🖥️ Honors Human Computer Interaction I
+  - 🔒 Honors Introduction to Cybersecurity
+  - 👨‍💻 AP Computer Science
 
 ### 🌐 Connect with Me
 
