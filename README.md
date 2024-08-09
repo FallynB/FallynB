@@ -3,8 +3,7 @@
 ## 🛡️ Aspiring Security Professional | IT Security Analyst
 
 ### About Me
-
-I've been interested in cybersecurity for 2+ years, but I have always loved technlogy. I'm a very curious and analytical person with a passion for tech. Cybersecurity is my favorite domain because I like the idea of being proactive in software design and protecting important systems as technology becomes increasingly intertwined with aspects of life.
+Technology has always been a passion of mine. Over the past two years, I've developed a particular interest in cybersecurity. As a naturally curious and analytical person, I find this field especially compelling. What draws me to cybersecurity is the opportunity to be proactive in software design. I'm excited by the prospect of protecting critical systems as technology becomes increasingly intertwined with various aspects of life. This domain allows me to combine my love for tech with my desire to make a meaningful impact. I'm motivated by the opportunity to safeguard the digital infrastructure that our society increasingly relies upon.
 
 ### 🚀 Current Focus
 
